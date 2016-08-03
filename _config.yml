@@ -1,4 +1,3 @@
-layout_spectrum: 0.43516468326561153
 typography_spectrum: 0.9992235798854381
 color:
   brandStrength: 0.08879983075894415
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.43516468326561153
 name: Beyond Beliefs
 title: Debbie Harding
+description: "Create your future. \_Your way!"
