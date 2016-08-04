@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-08-04T00:47:33.640Z'
+datePublished: '2016-08-04T01:13:07.811Z'
 sourcePath: _posts/2016-04-15-airbnbs-coolest-tiny-houses-in-america.md
 inFeed: true
-isBasedOnUrl: >-
-  https://www.thrillist.com/travel/nation/airbnbs-coolest-tiny-houses-in-america/travel
-hasPage: false
+hasPage: true
 keywords:
   - bedroom
   - bathroom
@@ -22,7 +20,7 @@ author:
     url: ''
     avatar: {}
 via: {}
-dateModified: '2016-08-04T00:47:32.776Z'
+dateModified: '2016-08-04T01:13:07.102Z'
 title: Access Bars Consciousness
 app_links:
   - type: iphone
@@ -39,6 +37,7 @@ description: >-
 inLanguage: en
 inNav: false
 starred: false
+url: access-bars-consciousness/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
