@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Beyond Beliefs]]></title>
-        <description><![CDATA[Beyond Beliefs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Debbie Harding]]></title>
+        <description><![CDATA[Debbie Harding]]></description>
+        <link>https://thegrid.ai/beyond-beliefs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 23:40:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Aug 2016 00:27:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/beyond-beliefs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Airbnb's Coolest Tiny Houses in America]]></title>
-            <description><![CDATA[<article><h1>Airbnb's Coolest Tiny Houses in America</h1><p>Tiny homes are all the rage, so it makes perfect sense that tiny homes people list on Airbnb are also quite popular. And that's&hellip;</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d4b7ed13c3092febbf108d16b78e9903c0f56ac.jpg"></article>]]></description>
+            <title><![CDATA[Access Bars Consciousness]]></title>
+            <description><![CDATA[<article><h1>Access Bars Consciousness</h1><p>Access Consciousness offers pragmatic tools to change things in your life that you haven’t been able to change until now. What if who you are is far greater than anyone has ever acknowledged?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a18844b6-5971-40a0-8739-069dcdfc214c.jpg"></article>]]></description>
             <link>https://www.thrillist.com/travel/nation/airbnbs-coolest-tiny-houses-in-america/travel</link>
             <guid isPermaLink="false">49babb5b-8fa4-4d08-88e2-79830838ceba</guid>
-            <pubDate>Wed, 03 Aug 2016 23:40:44 GMT</pubDate>
+            <pubDate>Thu, 04 Aug 2016 00:27:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
