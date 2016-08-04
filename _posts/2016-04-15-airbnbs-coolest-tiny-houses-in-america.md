@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T01:38:45.608Z'
+datePublished: '2016-08-04T01:56:59.593Z'
 sourcePath: _posts/2016-04-15-airbnbs-coolest-tiny-houses-in-america.md
 inFeed: true
 hasPage: true
@@ -20,7 +20,7 @@ author:
     url: ''
     avatar: {}
 via: {}
-dateModified: '2016-08-04T01:38:44.874Z'
+dateModified: '2016-08-04T01:56:58.744Z'
 title: Access Bars Consciousness
 app_links:
   - type: iphone
@@ -45,7 +45,7 @@ _type: MediaObject
 
 ---
 # Access Bars Consciousness
-![ ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a18844b6-5971-40a0-8739-069dcdfc214c.jpg)
+![ ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09aad9e3-9606-406d-bb3a-ae33db12b9a0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b01f2f24-a6c8-43c6-915e-b5365c934805.jpg)
 
 ### The Bars are very core and foundation of Access Consciousness. It can be the starting point of a great adventure and it can be something you add to your life that will assist you in creating a greater ease with everything.
