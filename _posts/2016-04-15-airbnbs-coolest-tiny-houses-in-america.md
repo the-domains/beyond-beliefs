@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T23:40:44.263Z'
+datePublished: '2016-08-04T00:27:32.533Z'
 sourcePath: _posts/2016-04-15-airbnbs-coolest-tiny-houses-in-america.md
 inFeed: true
 isBasedOnUrl: >-
@@ -18,30 +18,34 @@ keywords:
   - airbnb
 related: []
 author:
-  - name: Nadia Imafidon
-    url: 'https://www.thrillist.com/authors/nadia-imafidon'
+  - name: Debbie Harding
+    url: ''
     avatar: {}
-dateModified: '2016-08-03T23:40:43.417Z'
-title: Airbnb's Coolest Tiny Houses in America
+via: {}
+dateModified: '2016-08-04T00:27:31.573Z'
+title: Access Bars Consciousness
 app_links:
   - type: iphone
     namespace: twitter
     id: id356278120
     name: Thrillist
 publisher:
-  url: 'https://www.thrillist.com'
-  name: thrillist
-  favicon: 'https://www.thrillist.com/thrillist_favicon.png'
-  domain: www.thrillist.com
+  url: 'https://vimeo.com/72778672'
+  name: Access Bars
 description: >-
-  Tiny homes are all the rage, so it makes perfect sense that tiny homes people
-  list on Airbnb are also quite popular. And that's&hellip;
+  Access Consciousness offers pragmatic tools to change things in your life that
+  you haven’t been able to change until now. What if who you are is far greater
+  than anyone has ever acknowledged?
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Airbnb's Coolest Tiny Houses in America</h1><p>Tiny homes are all the rage, so it makes perfect sense that tiny homes people list on Airbnb are also quite popular. And that's&amp;hellip;</p><img src="http://assets3.thrillist.com/v1/image/1686658/size/tmg-slideshow_l" /></article>
+# Access Bars Consciousness
+![ ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a18844b6-5971-40a0-8739-069dcdfc214c.jpg)
+
+Access Consciousness offers pragmatic tools to change things in your life that you haven't been able to change until now. What if who you are is far greater than anyone has ever acknowledged?
+
+The Bars are very core and foundation of Access Consciousness. It can be the starting point of a great adventure and it can be something you add to your life that will assist you in creating a greater ease with everything.
