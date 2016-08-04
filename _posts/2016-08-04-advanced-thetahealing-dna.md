@@ -1,22 +1,23 @@
 ---
-datePublished: '2016-08-04T01:29:10.294Z'
+datePublished: '2016-08-04T02:27:25.685Z'
+sourcePath: _posts/2016-08-04-advanced-thetahealing-dna.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba2dd29d-5e9f-42c0-80ef-2d0c11bb55e3.jpg
 author: []
 via: {}
-dateModified: '2016-08-04T01:21:12.593Z'
-title: 'Advanced ThetaHealing DNA '
+dateModified: '2016-08-04T02:27:24.675Z'
+title: Advanced ThetaHealing DNA
 publisher: {}
 description: ''
 starred: false
-sourcePath: _posts/2016-08-04-advanced-thetahealing-dna.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-# Advanced ThetaHealing DNA ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba2dd29d-5e9f-42c0-80ef-2d0c11bb55e3.jpg)
+# Advanced ThetaHealing DNA
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba2dd29d-5e9f-42c0-80ef-2d0c11bb55e3.jpg)
 
 **ADVANCED DNA 2**
 
