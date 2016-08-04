@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T02:25:05.871Z'
+datePublished: '2016-08-04T02:25:50.657Z'
 sourcePath: _posts/2016-04-15-airbnbs-coolest-tiny-houses-in-america.md
 inFeed: true
 hasPage: true
@@ -20,7 +20,7 @@ author:
     url: ''
     avatar: {}
 via: {}
-dateModified: '2016-08-04T02:25:05.023Z'
+dateModified: '2016-08-04T02:25:49.784Z'
 title: Access Bars Consciousness
 app_links:
   - type: iphone
@@ -28,11 +28,12 @@ app_links:
     id: id356278120
     name: Thrillist
 publisher:
-  url: 'https://vimeo.com/72778672'
+  url: ''
   name: Access Bars
 description: >-
-  Tiny homes are all the rage, so it makes perfect sense that tiny homes people
-  list on Airbnb are also quite popular. And that's&hellip;
+  The Bars are very core and foundation of Access Consciousness. It can be the
+  starting point of a great adventure and it can be something you add to your
+  life that will assist you in creating a greater ease with everything.
 inLanguage: en
 inNav: false
 starred: false
@@ -50,5 +51,6 @@ The Bars are 32 bars of energy that run through and around your head that connec
 
 For example; every thought you have ever had about money that you considered important, the energy of that thought is stored in the Bar called "money."
 
-There are Bars for healing, body, control, awareness, creativity, power, aging, sex and money; 32 different ones in all. Each Bar corresponds with that aspect or area of your life that it is named.   
+There are Bars for healing, body, control, awareness, creativity, power, aging, sex and money; 32 different ones in all. Each Bar corresponds with that aspect or area of your life that it is named. 
+
 Touch one Bar and you begin to clear away the energy locked up in that area or aspect of your life just by touching it.
