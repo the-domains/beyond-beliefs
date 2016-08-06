@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-06T05:47:40.051Z'
+datePublished: '2016-08-06T05:58:33.233Z'
 sourcePath: _posts/2016-08-04-access-bars-consciousness-class.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ed91a03-2fe1-4f4c-949e-f74bdbe221dc.jpg
 author: []
 via: {}
-dateModified: '2016-08-06T05:47:39.272Z'
+dateModified: '2016-08-06T05:58:32.371Z'
 title: Access Bars Consciousness Class
 publisher: {}
 description: '20th August 2016 - Rosebud '
