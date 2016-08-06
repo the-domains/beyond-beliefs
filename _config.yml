@@ -1,16 +1,16 @@
-typography_spectrum: 0.19301060563884676
+typography_spectrum: 0.9363524198997766
 color:
-  brandStrength: 0.18168328399769962
-  lightness: 0.583806101931259
-  saturation: 0.9868681251537055
-  rhythmicContrast: 0.28576291515491903
+  brandStrength: 0.357813339214772
+  lightness: 0.45190577302128077
+  saturation: 0.9329189646523446
+  rhythmicContrast: 0.4394203971605748
   brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
-layout_spectrum: 0.8716674633324146
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
+layout_spectrum: 0.5148054210003465
 author:
   name: Debbie Harding
   email: hardingdebs@gmail.com
