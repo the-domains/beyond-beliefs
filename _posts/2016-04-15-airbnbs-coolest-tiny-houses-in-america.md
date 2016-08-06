@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-06T03:45:04.320Z'
+datePublished: '2016-08-06T03:45:35.380Z'
 sourcePath: _posts/2016-04-15-airbnbs-coolest-tiny-houses-in-america.md
 inFeed: true
 hasPage: true
@@ -20,7 +20,7 @@ author:
     url: ''
     avatar: {}
 via: {}
-dateModified: '2016-08-06T03:45:03.544Z'
+dateModified: '2016-08-06T03:45:34.660Z'
 title: Access Bars Consciousness
 app_links:
   - type: iphone
