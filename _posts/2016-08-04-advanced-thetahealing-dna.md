@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-06T05:25:58.171Z'
+datePublished: '2016-08-06T05:55:33.569Z'
 sourcePath: _posts/2016-08-04-advanced-thetahealing-dna.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba2dd29d-5e9f-42c0-80ef-2d0c11bb55e3.jpg
 author: []
 via: {}
-dateModified: '2016-08-06T05:25:57.311Z'
+dateModified: '2016-08-06T05:55:32.902Z'
 title: Advanced ThetaHealing DNA
 publisher:
-  name: Debbie Harding
+  name: ' '
   url: 'http://www.thetadebharding.com.au/advanceddna.html'
 description: ADVANCED DNA 2
 starred: false
