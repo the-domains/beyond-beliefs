@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-06T02:24:57.399Z'
+datePublished: '2016-08-06T02:27:30.227Z'
 sourcePath: _posts/2016-08-04-manifesting-and-abundance-thetahealing.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/243ecd0e-f60d-480d-a860-4cc8d1c544bb.jpg
 author: []
 via: {}
-dateModified: '2016-08-06T02:24:56.711Z'
+dateModified: '2016-08-06T02:27:29.361Z'
 title: Manifesting & Abundance ThetaHealing
 publisher: {}
 description: ''
