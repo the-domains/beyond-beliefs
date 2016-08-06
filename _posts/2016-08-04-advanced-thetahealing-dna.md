@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-06T10:20:55.689Z'
+datePublished: '2016-08-06T11:02:36.410Z'
 sourcePath: _posts/2016-08-04-advanced-thetahealing-dna.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba2dd29d-5e9f-42c0-80ef-2d0c11bb55e3.jpg
 author: []
 via: {}
-dateModified: '2016-08-06T10:20:54.747Z'
+dateModified: '2016-08-06T11:02:35.680Z'
 title: Advanced ThetaHealing DNA
 publisher:
   name: ' '
@@ -24,6 +24,8 @@ _type: MediaObject
 **ADVANCED DNA 2**
 
 **Prerequisites**: [Basic DNA][0]
+
+**$600.00 AUD**
 
 **Dates**: **23/24 & 25th September 2016 - PERTH - Western Australia dates available upon request Other States WA, NSW, NT available upon request**  
 **Rosebud Advanced: Monthly courses available please request dated via email [hardingdebs@gmail.com][1]**
