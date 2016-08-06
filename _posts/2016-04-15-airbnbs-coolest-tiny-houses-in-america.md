@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T02:25:50.657Z'
+datePublished: '2016-08-06T02:40:28.524Z'
 sourcePath: _posts/2016-04-15-airbnbs-coolest-tiny-houses-in-america.md
 inFeed: true
 hasPage: true
@@ -20,7 +20,7 @@ author:
     url: ''
     avatar: {}
 via: {}
-dateModified: '2016-08-04T02:25:49.784Z'
+dateModified: '2016-08-06T02:40:27.618Z'
 title: Access Bars Consciousness
 app_links:
   - type: iphone
@@ -43,7 +43,7 @@ _type: MediaObject
 
 ---
 # Access Bars Consciousness
-![ ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/38231820-09d5-4ff1-8be3-a5a7255f63e1.jpg)
+![ ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f8bcb28-09d6-4faf-98a9-39a3e21e6f94.jpg)
 
 The Bars are very core and foundation of Access Consciousness. It can be the starting point of a great adventure and it can be something you add to your life that will assist you in creating a greater ease with everything.
 
@@ -51,6 +51,6 @@ The Bars are 32 bars of energy that run through and around your head that connec
 
 For example; every thought you have ever had about money that you considered important, the energy of that thought is stored in the Bar called "money."
 
-There are Bars for healing, body, control, awareness, creativity, power, aging, sex and money; 32 different ones in all. Each Bar corresponds with that aspect or area of your life that it is named. 
+There are Bars for healing, body, control, awareness, creativity, power, aging, sex and money; 32 different ones in all. Each Bar corresponds with that aspect or area of your life that it is named.
 
 Touch one Bar and you begin to clear away the energy locked up in that area or aspect of your life just by touching it.
