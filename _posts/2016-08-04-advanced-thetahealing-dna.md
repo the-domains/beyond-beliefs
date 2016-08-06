@@ -1,13 +1,15 @@
 ---
-datePublished: '2016-08-06T03:39:37.137Z'
+datePublished: '2016-08-06T05:05:54.115Z'
 sourcePath: _posts/2016-08-04-advanced-thetahealing-dna.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba2dd29d-5e9f-42c0-80ef-2d0c11bb55e3.jpg
 author: []
 via: {}
-dateModified: '2016-08-06T03:39:04.082Z'
+dateModified: '2016-08-06T05:05:52.506Z'
 title: Advanced ThetaHealing DNA
-publisher: {}
+publisher:
+  name: Debbie Harding
+  url: 'http://www.thetadebharding.com.au/advanceddna.html'
 description: 23 - 25 September 2016 in Shoalwater Western Australia
 starred: false
 inFeed: true
