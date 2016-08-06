@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-06T10:25:32.621Z'
+datePublished: '2016-08-06T10:51:32.021Z'
 sourcePath: _posts/2016-08-04-manifesting-and-abundance-thetahealing.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/243ecd0e-f60d-480d-a860-4cc8d1c544bb.jpg
 author: []
 via: {}
-dateModified: '2016-08-06T10:25:31.114Z'
+dateModified: '2016-08-06T10:51:00.035Z'
 title: Manifesting & Abundance ThetaHealing
 publisher: {}
 description: 'Prerequisite: Basic DNA and Advanced DNA'
@@ -39,3 +39,5 @@ The ThetaHealing(r) Manifesting and Abundance Class has the following criterion 
 * Exercise: I am stuck exercise.
 * Exercise: How to create your future from the Seventh Plane
 * Exercise: Bless your money
+
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"> <input type="hidden" name="cmd" value="_s-xclick"> <input type="hidden" name="hosted_button_id" value="82Q5UAMX4EQSC"> <table> <tr><td><input type="hidden" name="on0" value="Email Address">Email Address</td></tr><tr><td><input type="text" name="os0" maxlength="200"></td></tr> <tr><td><input type="hidden" name="on1" value="Name">Name</td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr> </table> <input type="image" src="https://www.paypalobjects.com/en_AU/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!"> <img alt="" border="0" src="https://www.paypalobjects.com/en_AU/i/scr/pixel.gif" width="1" height="1"> </form>
