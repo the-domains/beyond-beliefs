@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-06T02:27:09.675Z'
+datePublished: '2016-08-06T02:27:13.869Z'
 sourcePath: _posts/2016-08-04-basic-thetahealing-dna-course.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bed381fb-de09-410b-b690-49c81f9b3717.jpg
 author: []
 via: {}
-dateModified: '2016-08-06T02:27:08.789Z'
+dateModified: '2016-08-06T02:27:10.200Z'
 title: Basic ThetaHealing DNA Course
 publisher: {}
 description: ''
@@ -17,7 +17,7 @@ _type: MediaObject
 
 ---
 # Basic ThetaHealing DNA Course
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/107254ec-eefd-4fdf-9498-8cfc5b0b09e0.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/009fd5e6-5e94-41d4-89bb-71bcbc42a873.jpg)
 
 **Next Course:19/20 & 21 September 2016 in Perth**  
 **October / November / December 2016 please request dates and locations**  
