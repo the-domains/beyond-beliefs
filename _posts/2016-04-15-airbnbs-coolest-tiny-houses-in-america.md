@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-06T03:45:35.380Z'
+datePublished: '2016-08-06T05:58:39.202Z'
 sourcePath: _posts/2016-04-15-airbnbs-coolest-tiny-houses-in-america.md
 inFeed: true
 hasPage: true
@@ -16,11 +16,11 @@ keywords:
   - airbnb
 related: []
 author:
-  - name: Debbie Harding
+  - name: ' '
     url: ''
     avatar: {}
 via: {}
-dateModified: '2016-08-06T03:45:34.660Z'
+dateModified: '2016-08-06T05:56:37.035Z'
 title: Access Bars Consciousness
 app_links:
   - type: iphone
