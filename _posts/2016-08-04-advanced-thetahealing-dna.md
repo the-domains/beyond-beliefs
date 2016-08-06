@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-06T02:26:45.684Z'
+datePublished: '2016-08-06T03:39:37.137Z'
 sourcePath: _posts/2016-08-04-advanced-thetahealing-dna.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba2dd29d-5e9f-42c0-80ef-2d0c11bb55e3.jpg
 author: []
 via: {}
-dateModified: '2016-08-06T02:24:36.650Z'
+dateModified: '2016-08-06T03:39:04.082Z'
 title: Advanced ThetaHealing DNA
 publisher: {}
-description: ''
+description: 23 - 25 September 2016 in Shoalwater Western Australia
 starred: false
 inFeed: true
 hasPage: false
@@ -17,7 +17,7 @@ _type: MediaObject
 
 ---
 # Advanced ThetaHealing DNA
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/134c3dc1-f695-47e0-976a-f38c0c4ba8d9.jpg)
+![23 - 25 September 2016 in Shoalwater Western Australia](https://the-grid-user-content.s3-us-west-2.amazonaws.com/134c3dc1-f695-47e0-976a-f38c0c4ba8d9.jpg)
 
 **ADVANCED DNA 2**
 
