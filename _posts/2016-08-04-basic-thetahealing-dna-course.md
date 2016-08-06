@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-08-06T10:17:16.153Z'
+datePublished: '2016-08-06T11:03:41.755Z'
 sourcePath: _posts/2016-08-04-basic-thetahealing-dna-course.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bed381fb-de09-410b-b690-49c81f9b3717.jpg
 author: []
 via: {}
-dateModified: '2016-08-06T10:16:43.624Z'
+dateModified: '2016-08-06T11:03:40.646Z'
 title: Basic ThetaHealing DNA Course
 publisher: {}
 description: >-
-  Next Course:19/20 & 21 September 2016 in PerthOctober / November / December
-  2016 please request dates and locations(regular dates please email for current
-  course schedule)
+  Next Course:19/20 & 21 September 2016 in Perth October / November / December
+  2016 please request dates and locations (regular dates please email for
+  current course schedule)
 starred: false
 inFeed: true
 hasPage: false
@@ -28,6 +28,8 @@ _type: MediaObject
 
 **Prerequisite:** None required  
 **Includes:** ThetaHealing(r) Book and ThetaHealing Manual DNA introduces ThetaHealing(r) techniques and focuses on activating the 12 strands of DNA within each participant. The chronos, or youth and vitality chromosome is activated, the telomeres are strengthened to reverse the aging process, and students experience an opening to the Unconditional Love of the Creator.
+
+Cost: $600.00 AUD
 
 The heart of this class is the practice of techniques that allow you to change life patterns held in place by core, genetic, historic and soul beliefs, either self inflicted or externally imposed. The student will learn to identify his/her own beliefs as well as to practice pulling them for others in the class. This practice can quickly reveal systems of belief that might take traditional psychotherapy years to uncover, showing the body how to replace limiting beliefs or feelings with positive ones. Issues of safety are emphasized, especially when making genetic changes in the body.
 
