@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-06T05:26:35.702Z'
+datePublished: '2016-08-06T06:51:02.646Z'
 sourcePath: _posts/2016-08-04-basic-thetahealing-dna-course.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bed381fb-de09-410b-b690-49c81f9b3717.jpg
 author: []
 via: {}
-dateModified: '2016-08-06T05:26:35.022Z'
+dateModified: '2016-08-06T06:51:01.956Z'
 title: Basic ThetaHealing DNA Course
 publisher: {}
 description: >-
@@ -32,6 +32,7 @@ _type: MediaObject
 The heart of this class is the practice of techniques that allow you to change life patterns held in place by core, genetic, historic and soul beliefs, either self inflicted or externally imposed. The student will learn to identify his/her own beliefs as well as to practice pulling them for others in the class. This practice can quickly reveal systems of belief that might take traditional psychotherapy years to uncover, showing the body how to replace limiting beliefs or feelings with positive ones. Issues of safety are emphasized, especially when making genetic changes in the body.
 
 Other topics and exercises include learning discernment when working with guides and guardian angels, an introduction to the laws of manifestation, doing future readings, balancing serotonin and noradrenaline levels, pulling heavy metals and radiation, soul mates, waywards and implants, Seven Planes of Existence, and the protocols for healing a great variety of conditions and diseases working with the Creator. By the end of the seminar, the student is prepared to become a practitioner of ThetaHealing(r) as a ThetaHealer(r).
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c866deb-281d-4817-981f-a3e6d201591b.jpg)
 
 The class consists of:   
  a comprehensive understanding of connecting to the Creator using Theta  
