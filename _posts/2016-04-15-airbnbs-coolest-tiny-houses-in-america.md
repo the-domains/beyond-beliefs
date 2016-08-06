@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-06T02:40:28.524Z'
+datePublished: '2016-08-06T02:40:59.508Z'
 sourcePath: _posts/2016-04-15-airbnbs-coolest-tiny-houses-in-america.md
 inFeed: true
 hasPage: true
@@ -20,7 +20,7 @@ author:
     url: ''
     avatar: {}
 via: {}
-dateModified: '2016-08-06T02:40:27.618Z'
+dateModified: '2016-08-06T02:40:58.588Z'
 title: Access Bars Consciousness
 app_links:
   - type: iphone
@@ -31,9 +31,8 @@ publisher:
   url: ''
   name: Access Bars
 description: >-
-  The Bars are very core and foundation of Access Consciousness. It can be the
-  starting point of a great adventure and it can be something you add to your
-  life that will assist you in creating a greater ease with everything.
+  Tiny homes are all the rage, so it makes perfect sense that tiny homes people
+  list on Airbnb are also quite popular. And that's&hellip;
 inLanguage: en
 inNav: false
 starred: false
