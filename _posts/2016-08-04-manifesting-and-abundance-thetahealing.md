@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-06T05:52:32.319Z'
+datePublished: '2016-08-06T10:25:32.621Z'
 sourcePath: _posts/2016-08-04-manifesting-and-abundance-thetahealing.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/243ecd0e-f60d-480d-a860-4cc8d1c544bb.jpg
 author: []
 via: {}
-dateModified: '2016-08-06T05:52:31.639Z'
+dateModified: '2016-08-06T10:25:31.114Z'
 title: Manifesting & Abundance ThetaHealing
 publisher: {}
 description: 'Prerequisite: Basic DNA and Advanced DNA'
