@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-06T06:51:02.646Z'
+datePublished: '2016-08-06T10:16:38.384Z'
 sourcePath: _posts/2016-08-04-basic-thetahealing-dna-course.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bed381fb-de09-410b-b690-49c81f9b3717.jpg
 author: []
 via: {}
-dateModified: '2016-08-06T06:51:01.956Z'
+dateModified: '2016-08-06T10:16:37.647Z'
 title: Basic ThetaHealing DNA Course
 publisher: {}
 description: >-
@@ -48,3 +48,5 @@ The class consists of:
  facilitating Group Healings and much more.
 
 Receive certification from the THInK Institute as a Basic ThetaHealing(r) Practitioner.
+
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"> <input type="hidden" name="cmd" value="_s-xclick"> <input type="hidden" name="hosted_button_id" value="TGFUZGLURCX5A"> <table> <tr><td><input type="hidden" name="on0" value="Email Address">Email Address</td></tr><tr><td><input type="text" name="os0" maxlength="200"></td></tr> <tr><td><input type="hidden" name="on1" value="Name">Name</td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr> </table> <input type="image" src="https://www.paypalobjects.com/en_AU/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!"> <img alt="" border="0" src="https://www.paypalobjects.com/en_AU/i/scr/pixel.gif" width="1" height="1"> </form>
