@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-06T11:16:00.168Z'
+datePublished: '2016-08-06T11:16:09.171Z'
 sourcePath: _posts/2016-08-04-access-bars-consciousness-class.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ed91a03-2fe1-4f4c-949e-f74bdbe221dc.jpg
 author: []
 via: {}
-dateModified: '2016-08-06T11:15:59.390Z'
+dateModified: '2016-08-06T11:16:08.455Z'
 title: Access Bars Consciousness Class
 publisher: {}
 description: 'Book now:'
