@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-06T05:07:31.334Z'
+datePublished: '2016-08-06T05:08:17.070Z'
 sourcePath: _posts/2016-08-04-manifesting-and-abundance-thetahealing.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/243ecd0e-f60d-480d-a860-4cc8d1c544bb.jpg
 author: []
 via: {}
-dateModified: '2016-08-06T05:07:30.576Z'
+dateModified: '2016-08-06T05:08:16.353Z'
 title: Manifesting & Abundance ThetaHealing
 publisher: {}
 description: 27 & 28 September 2016 - Shoalwater Western Australia
