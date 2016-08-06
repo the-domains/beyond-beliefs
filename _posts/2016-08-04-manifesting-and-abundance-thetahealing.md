@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-06T03:36:03.977Z'
+datePublished: '2016-08-06T03:40:45.329Z'
 sourcePath: _posts/2016-08-04-manifesting-and-abundance-thetahealing.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/243ecd0e-f60d-480d-a860-4cc8d1c544bb.jpg
 author: []
 via: {}
-dateModified: '2016-08-06T03:36:03.287Z'
+dateModified: '2016-08-06T03:40:16.706Z'
 title: Manifesting & Abundance ThetaHealing
 publisher: {}
-description: Shoalwater Western Australia
+description: 27 & 28 September 2016 - Shoalwater Western Australia
 starred: false
 inFeed: true
 hasPage: false
@@ -17,7 +17,7 @@ _type: MediaObject
 
 ---
 # Manifesting & Abundance ThetaHealing
-![Shoalwater Western Australia](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa5d0cff-bbb3-4597-a8e2-90c0a09fb4c2.jpg)
+![27 & 28 September 2016 - Shoalwater Western Australia](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa5d0cff-bbb3-4597-a8e2-90c0a09fb4c2.jpg)
 
 **Prerequisite:** Basic DNA and Advanced DNA
 
