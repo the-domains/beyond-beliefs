@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-06T10:47:25.849Z'
+datePublished: '2016-08-06T10:51:26.523Z'
+sourcePath: >-
+  _posts/2016-08-06-phone-readingshealings-face-to-face-readingshealings-email.md
 author: []
 via: {}
-dateModified: '2016-08-06T10:47:19.646Z'
+dateModified: '2016-08-06T10:51:25.467Z'
 title: ''
 publisher: {}
 description: Phone Readings/Healings Face to Face Readings/Healings Email Readings/Healings
 starred: false
-sourcePath: >-
-  _posts/2016-08-06-phone-readingshealings-face-to-face-readingshealings-email.md
 inFeed: true
 hasPage: true
 inNav: false
