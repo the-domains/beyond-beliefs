@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-06T11:02:36.410Z'
+datePublished: '2016-08-06T11:04:53.665Z'
 sourcePath: _posts/2016-08-04-advanced-thetahealing-dna.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba2dd29d-5e9f-42c0-80ef-2d0c11bb55e3.jpg
 author: []
 via: {}
-dateModified: '2016-08-06T11:02:35.680Z'
+dateModified: '2016-08-06T11:04:52.828Z'
 title: Advanced ThetaHealing DNA
 publisher:
   name: ' '
