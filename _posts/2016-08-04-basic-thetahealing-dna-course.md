@@ -1,14 +1,17 @@
 ---
-datePublished: '2016-08-06T05:04:59.104Z'
+datePublished: '2016-08-06T05:26:35.702Z'
 sourcePath: _posts/2016-08-04-basic-thetahealing-dna-course.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bed381fb-de09-410b-b690-49c81f9b3717.jpg
 author: []
 via: {}
-dateModified: '2016-08-06T05:04:58.366Z'
+dateModified: '2016-08-06T05:26:35.022Z'
 title: Basic ThetaHealing DNA Course
 publisher: {}
-description: 19 - 21 September 2016 in Shoalwater Western Australia
+description: >-
+  Next Course:19/20 & 21 September 2016 in Perth October / November / December
+  2016 please request dates and locations (regular dates please email for
+  current course schedule)
 starred: false
 inFeed: true
 hasPage: false
