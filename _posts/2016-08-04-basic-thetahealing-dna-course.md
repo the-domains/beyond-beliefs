@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-06T02:25:28.780Z'
+datePublished: '2016-08-06T02:27:09.675Z'
 sourcePath: _posts/2016-08-04-basic-thetahealing-dna-course.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bed381fb-de09-410b-b690-49c81f9b3717.jpg
 author: []
 via: {}
-dateModified: '2016-08-06T02:25:27.937Z'
+dateModified: '2016-08-06T02:27:08.789Z'
 title: Basic ThetaHealing DNA Course
 publisher: {}
 description: ''
