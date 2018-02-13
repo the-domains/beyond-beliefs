@@ -1,25 +1,24 @@
 ---
-datePublished: '2016-08-06T11:04:53.665Z'
+datePublished: '2018-02-13T04:26:55.172Z'
 sourcePath: _posts/2016-08-04-advanced-thetahealing-dna.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba2dd29d-5e9f-42c0-80ef-2d0c11bb55e3.jpg
 author: []
 via: {}
-dateModified: '2016-08-06T11:04:52.828Z'
+dateModified: '2018-02-13T04:26:53.352Z'
 title: Advanced ThetaHealing DNA
 publisher:
   name: ' '
   url: 'http://www.thetadebharding.com.au/advanceddna.html'
 description: ADVANCED DNA 2
-starred: false
 inFeed: true
-hasPage: false
-inNav: false
+starred: false
+datePublishedOriginal: '2016-08-06T11:04:53.665Z'
 _type: MediaObject
 
 ---
 # Advanced ThetaHealing DNA
-![23 - 25 September 2016 in Shoalwater Western Australia](https://the-grid-user-content.s3-us-west-2.amazonaws.com/134c3dc1-f695-47e0-976a-f38c0c4ba8d9.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/134c3dc1-f695-47e0-976a-f38c0c4ba8d9.jpg)
 
 **ADVANCED DNA 2**
 
@@ -27,7 +26,7 @@ _type: MediaObject
 
 **$600.00 AUD**
 
-**Dates**: **23/24 & 25th September 2016 - PERTH - Western Australia dates available upon request Other States WA, NSW, NT available upon request**  
+**Dates and locations available upon request**  
 **Rosebud Advanced: Monthly courses available please request dated via email [hardingdebs@gmail.com][1]**
 
 **Includes:**_Advanced ThetaHealing All That Is_ & ThetaHealing Advanced Manua Advanced ThetaHealing(r) Course expands the information in the Basic Class to encompass an in-depth understanding of the Seven Planes of Existence that surround us.
